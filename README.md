@@ -6,4 +6,5 @@ Icons for my Unraid containers, served from this repo's raw URLs (for example `h
 | --- | --- |
 | `hazzhome.png` | HazzHome |
 | `hazzweather.png` | HazzWeather |
+| `hazzsolar.png` | HazzSolar |
 | `hazzfan.png` | HazzFan |
